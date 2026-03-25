@@ -57,6 +57,8 @@ Identified key drop-off points and proposed improvements to optimize conversion 
 
 **🛠️ Skills:** SQL | Funnel Analysis | A/B Testing  
 
+🔗 [View Project](https://docs.google.com/spreadsheets/d/1AwxTl00ft_OaRQq2ouruNYSijDv8f68w88FIR4l15rM/edit?usp=sharing)
+
 ---
 
 ### 🔹 Financial Performance & ROI Analysis (SQL)  
@@ -72,6 +74,8 @@ Identified the most profitable campaigns and optimization opportunities, improvi
 
 **🛠️ Skills:** SQL | Financial Analysis | Data Cleaning  
 
+🔗 [View Project](https://docs.google.com/spreadsheets/d/1tFwfUqm0BeGgZVS7ZvnAQqMMzI6YIbc0WA5NLuOzo4s/edit?usp=sharing)
+
 ---
 
 ### 🔹 Traffic Congestion vs Economic Performance (Python)  
@@ -86,6 +90,8 @@ Developed a data pipeline using **Python (Pandas, Matplotlib)**, including data 
 Found no direct linear relationship between congestion and GDP per capita, highlighting the role of external factors such as infrastructure and urban planning.  
 
 **🛠️ Skills:** Python | Pandas | Data Cleaning | EDA  
+
+
 
 ---
 
