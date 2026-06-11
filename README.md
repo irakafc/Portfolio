@@ -112,6 +112,8 @@ Identified underutilized and overutilized plans, revealing opportunities for pri
 
 **🛠️ Skills:** Python | Pandas | EDA | Data Cleaning | Segmentation  
 
+🔗 [View Project](https://drive.google.com/drive/folders/1Oye4OMRJnr53Ku5ihHLdmP5wswZG8aM1?usp=sharing)
+
 ---
 
 ### 🔹 Behavioral Drivers in E-commerce (NovaRetail+)
@@ -129,6 +131,8 @@ Found that engagement metrics (visits, purchases) are stronger revenue drivers t
 
 **🛠️ Skills:** Python | Statistics | Correlation Analysis | EDA  
 
+🔗 [View Project](https://drive.google.com/drive/folders/1Oye4OMRJnr53Ku5ihHLdmP5wswZG8aM1?usp=sharing)
+
 ---
 
 ### 🔹 A/B Testing Landing Page Optimization  
@@ -144,6 +148,8 @@ Identified statistically significant differences between variants and actionable
 
 **🛠️ Skills:** Python | A/B Testing | Statistics | Conversion Optimization  
 
+🔗 [View Project](https://drive.google.com/drive/folders/1Oye4OMRJnr53Ku5ihHLdmP5wswZG8aM1?usp=sharing)
+
 ---
 
 ### 🔹 Commercial Dashboard (Andes Retail Group) — Power BI  
@@ -158,6 +164,27 @@ Built an interactive Power BI dashboard, including KPI design, data cleaning, an
 Enabled real-time visibility into revenue drivers and improved decision-making across regions and product categories.  
 
 **🛠️ Skills:** Power BI | Data Visualization | Business Intelligence  
+
+🔗 [View Project](https://drive.google.com/drive/folders/1Oye4OMRJnr53Ku5ihHLdmP5wswZG8aM1?usp=sharing)
+
+---
+
+### 🔹 E-commerce Business Performance & Conversion Analytics (SQL | Python | Power BI)
+
+**🔍 Problem**
+The company lacked visibility into sales performance, profitability, marketing efficiency, customer retention, and user behavior throughout the purchasing journey.
+
+**⚙️ Action**
+Built an end-to-end analytics project using **SQL, Python, and Power BI**. Cleaned and validated datasets, analyzed revenue, costs, profit, marketing spend, customer retention cohorts, conversion funnels, and checkout performance through A/B testing. Developed an interactive Power BI dashboard with executive KPIs, profitability analysis, drill-through functionality, and business storytelling.
+
+**📈 Result**
+Identified critical drop-off points in the checkout process, detected unprofitable products and transactions caused by excessive discounts, measured customer retention across cohorts, and determined through statistical testing that checkout UI changes did not significantly improve conversion rates. Delivered actionable recommendations to increase profitability and optimize customer conversion.
+
+**💡 Key Insight:** Improving checkout performance and controlling excessive discount strategies represent the highest-impact opportunities for increasing overall business profitability.
+
+**🛠️ Skills:** SQL | Python | Pandas | Power BI | Funnel Analysis | Cohort Analysis | A/B Testing | Business Intelligence | Data Visualization
+
+🔗 [View Project](https://drive.google.com/drive/folders/1Oye4OMRJnr53Ku5ihHLdmP5wswZG8aM1?usp=sharing)
 
 ---
 
